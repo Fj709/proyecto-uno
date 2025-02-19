@@ -11,7 +11,7 @@ export default function DashboardLayout({
       <div className="bg-white w-64 space-y-6 px-2 py-4">
         <div className="text-xl font-bold text-gray-800">
           {" "}
-          <Link href="/">Forum Dashboard</Link>{" "}
+          <Link href="/">Forum Dashboard</Link>
         </div>
         <nav>
           <Link
